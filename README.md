@@ -10,8 +10,7 @@ git add . ---- To add Everything
 commit -it is the record of change
     git commit -m '-Message-'
 
-push - upload files from local rep to remote rep
-    push origin main 
+
 
 
 
