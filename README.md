@@ -10,6 +10,9 @@ git add . ---- To add Everything
 commit -it is the record of change
     git commit -m '-Message-'
 
+Push 
+git push origin <Your branch>
+
 
 
 
