@@ -12,3 +12,6 @@ commit -it is the record of change
 
 push - upload files from local rep to remote rep
 
+
+
+
