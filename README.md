@@ -13,7 +13,11 @@ commit -it is the record of change
 Push 
 git push origin <Your branch>
 
-
+Init - used to create new repo 
+git remote add origin <YourLink>
+git branch - to check branch
+git branch -M main  
+ 
 
 
 
